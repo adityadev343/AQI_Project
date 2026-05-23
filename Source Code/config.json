@@ -1,0 +1,11 @@
+{
+  "base_dir": ".",
+  "raw_data_dir": "./data/raw",
+  "processed_data_dir": "./data/processed",
+  "results_dir": "./results",
+  "figures_dir": "./figures",
+  "models_dir": "./models",
+  "checkpoints_dir": "./checkpoints",
+  "dataset_filename": "foundational_dataset.csv",
+  "raw_data_filename": "city_pollutants_raw.csv"
+}
